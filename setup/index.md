@@ -8,7 +8,7 @@ This directory contains scripts for testing your machine to make sure
 you have the software you'll need for your workshop installed.  To use
 these scripts:
 
-1.  Download [swc-installation-test-1.py](swc-installation-test-1.py).
+1.  Download [swc-installation-test-1.py](2017-11-02-nist/setup/swc-installation-test-1.py).
 
 2.  Run it from the shell:
 
